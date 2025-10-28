@@ -17,7 +17,9 @@ Average Salary: ₹6.5K
 
 Average Years in Company: 7
 
-💡 Insights Discovered
+
+
+💡  Insights Discovered
 
 Salary Matters Most – Employees earning below ₹5K showed the highest attrition. This revealed that low pay is one of the biggest reasons for turnover.
 
